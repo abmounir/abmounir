@@ -3,8 +3,10 @@
 
 ## My stack ## 
 
-- AWS 
-- EKS
+- AWS
+- AZURE
+- GCP
+- KUBERNETES
 - DOCKER
 - SERVERLESS
 - AWS ECS
